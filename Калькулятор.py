@@ -2,7 +2,7 @@ print("To end this app enter: .")
 
 def main():
     print("Приввет, нигга")
-    print("Для твича осудим на всякий")
+    print("Для твича осудим на всякий нигера")
     while True:
          symbol = input("Operation sing (+, -, *, /): ")
          if symbol == '.':
