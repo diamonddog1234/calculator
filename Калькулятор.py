@@ -29,3 +29,7 @@ def main():
 
 def a():
     print("azazazaza")
+
+    
+def ASu():
+    print("Priymni")
