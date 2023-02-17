@@ -24,3 +24,6 @@ def main():
                      print("Please, don't divide by zero to avoid the collapse of Universe!")
          else:
              print("Hey, write a supported sign!")
+
+def ASu():
+    print("Priymni")
